@@ -1,0 +1,10 @@
+Question quality metrics:
+	Visualization: performance on target subject vs average performance on other subjects using a 2d histogram
+	Cost: sum((score on target subject - average score on other subjects)**2)
+
+
+Grading strategies
+	Sort and partition / equiweighted bins
+		Fail marks
+		Most people perform similarly
+		Many people score same marks
